@@ -1,2 +1,23 @@
-# ndreong_91
-I like new things to get rid of the burden of anyone's mind or experience in the future,
+file-ren.bat.
+kemampuan-dasar/
+      kemampuan-dasar-1
+            kasus
+                  cari-java.sh
+                  process-killer.sh
+            latihan
+            cmdline.txt
+            env.txt
+            shellscripts
+                  echo_example.sh
+                  first.sh
+                  echo "Selamat Mencoba"
+                  then
+                  do
+                  clear
+                  sleep-example.sh
+kemampuan-dasar-2
+       praktik-1.md
+       praktik-2.md
+       README.md
+wawasan
+     README.md
